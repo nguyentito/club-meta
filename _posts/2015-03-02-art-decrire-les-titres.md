@@ -5,7 +5,7 @@ title: De l'art d'écrire les titres
 
 Il faut mettre les titres en italique. Sinon, comment distinguer entre les deux phrases suivantes ?
 
-- I went to see [*Up in the Air*](http://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film)) <span class="meta">– J'ai vu *Up in the Air*</span>
+- I went to see [*Up in the Air*](http://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film)) <span class="meta">– J'ai vu *In the Air*</span>
 - I went to see [*Up*](http://en.wikipedia.org/wiki/Up_(2009_film)) in the air <span class="meta">– J'ai vu *Là-haut* là-haut</span>
 
 Pour savoir où mettre les capitales, si vous avez une nuit à perdre il y a [les conventions typographiques de Wikipédia](https://fr.wikipedia.org/wiki/Wikipédia:Conventions_typographiques#Principes_de_capitalisation_des_titres). <span class="meta">En résumé, ça donne : si le titre commence par « un(e) » ou « du/de(s) », il ne faut une majuscule qu'au début de la phrase. S'il commence par « la/le(s) », il faut une majuscule au premier nom et à tout adjectif ou adverbe le précédant.</span>
