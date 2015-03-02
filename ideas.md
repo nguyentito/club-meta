@@ -3,7 +3,7 @@ layout: page
 title: Quelques idées d'articles
 ---
 
-Je verrais bien ici des articles portant sur les sujets suivants. À vous de jouer sur [GitHub](https://github.com/jilljenn/club-meta/) ! J'attends vos *pull requests*.
+Je verrais bien ici des articles portant sur les sujets suivants. À vous de jouer sur [GitHub](https://github.com/jilljenn/club-meta/new/gh-pages) ! J'attends vos *pull requests*.
 
 ## Films
 
