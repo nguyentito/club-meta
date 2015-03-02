@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Club-Meta
+title:            Club-Méta
 tagline:          'Bienvenue au club !'
 description:      'Regarde tout ce qu''on peut faire avec de la caféine ! Fait par <a href="https://twitter.com/jjvie" target="_blank">@jjvie</a>.'
-url:              http://club-mate.fr
+url:              http://club-meta.fr
 baseurl:          /
 
 author:
