@@ -35,7 +35,7 @@ Il s'agit de code <a href="https://fr.wikipedia.org/wiki/Markdown" target="_blan
 
 Vous aussi, vous pouvez [contribuer en rejoignant le club](/contribute/) !
 
-Pour toute question ou suggestion, n'hésitez pas à [créer un message sur GitHub](https://github.com/jilljenn/club-mate/issues/new) ou bien [me faire signe sur Twitter](https://twitter.com/jjvie).
+Pour toute question ou suggestion, n'hésitez pas à [créer un message sur GitHub](https://github.com/jilljenn/club-meta/issues/new) ou bien [me faire signe sur Twitter](https://twitter.com/jjvie).
 
 <hr />
 
