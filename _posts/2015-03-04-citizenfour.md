@@ -29,6 +29,8 @@ Justement, plutôt que de parler du documentaire, mentionnons les [outils crypto
 
 J'ai essayé de [l'installer](https://www.torproject.org). Heureusement, ils ont un téléchargement en un clic.
 
+<img src="{{ site.baseurl }}public/img/tor.png" alt="La page de Club-Méta sur TorBrowser." />
+
 Ça marche ! Le lancement s'accompagne de conseils utiles :
 
 - Use the Tor Browser
