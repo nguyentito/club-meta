@@ -3,6 +3,9 @@ layout: post
 title: Citizenfour
 ---
 
+<p class="message">JJ. — Pfff mais je suis sûr que personne ne va entendre parler de <em>Citizenfour</em>, l'affiche est super sombre, bleue et noire…<br />
+<a href="http://semantic.supelec.fr/popineau/" target="_blank">F</a>. — Tu es sûr qu'elle n'est pas blanche et dorée ?</p>
+
 Aujourd'hui est sorti le documentaire sur [les révélations d'Edward Snowden](http://fr.wikipedia.org/wiki/Révélations_d%27Edward_Snowden) sur la surveillance mondiale des réseaux de télécommunications. <span class="meta">Je ne sais pas pourquoi la page Wikipédia anglaise s'arrête à août 2014 tandis que la page française poursuit sa description.</span> Le volume de documents révélés s'élève à 1,7 million.
 
 > Près de 55 % des électeurs américains considèrent que le jeune homme de 30 ans est un « lanceur d'alerte », contre 34 % qui jugent qu'il a trahi son pays.
