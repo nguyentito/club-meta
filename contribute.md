@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Rejoignez le club !
+title: Contribuez au club !
 ---
 
 Ce site est aussi méta dans son principe : vous pouvez le consulter mais aussi le modifier.
 
 ## Comment ça marche ?
 
-Après avoir <a href="https://github.com/join" target="_blank">créé un compte sur GitHub</a>, vous pourrez [modifier ce fichier](https://github.com/jilljenn/club-meta/edit/gh-pages/contribute.md) ou [en créer un autre](https://github.com/jilljenn/club-meta/new/gh-pages).<br /><span class="meta">C'est comme un wiki, mais en plus chiant.</span>
+Après avoir <a href="https://github.com/join" target="_blank">créé un compte sur GitHub</a>, vous pourrez [modifier cette page](https://github.com/jilljenn/club-meta/edit/gh-pages/contribute.md) ou [créer un nouveau post](https://github.com/jilljenn/club-meta/new/gh-pages/_posts).<br /><span class="meta">C'est comme un wiki, mais en plus chiant.</span>
 
 Si vous manquez d'idées, [en voici plein](/ideas/).
 
