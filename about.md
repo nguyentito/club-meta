@@ -1,43 +1,30 @@
 ---
 layout: page
-title: C'est quoi ?
+title: About
 ---
 
 <p class="message">
-  Club-Méta a été créé par <a href="http://jill-jenn.net" target="_blank">JJ Vie</a> le 2 mars 2015 à 2 h 10 alors qu'il peinait à trouver le sommeil.
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-Je suis fan d'imbrications (*Tetris*) et de mises en abyme (*Inception*) et j'aimerais exprimer ma passion au moyen de petits textes. Le méta est partout, c'est la raison pour laquelle un film comme *La Grande Aventure Lego* peut nous émouvoir ou Stack Exchange obtenir un financement de 70 millions de dollars. <span class="meta">Ha ha, cette intro est pourrie[¹](#note1).</span>
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-## Ça veut dire quoi, méta ?
+There are currently two themes built on Poole:
 
-Ce préfixe désigne un niveau d'abstraction supérieur :
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-* un métarêve est un rêve dans le rêve ;
-* une <a href="http://www.lsv.ens-cachan.fr/~picaro/" target="_blank">métaprof</a> serait une prof de prof ;
-* un Métamorph est un Pokémon de type normal.
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-Par exemple, le simple fait de montrer le code de cette page (partiellement, hein, ne faisons pas de bêtises) est un exemple de méta :
+## Setup
 
-{% highlight html %}
-<p class="message">
-  Club-Méta a été créé par <a href="http://jill-jenn.net" target="_blank">JJ Vie</a> le 2 mars 2015 à 2 h 10 alors qu'il peinait à trouver le sommeil.
-</p>
+Some fun facts about the setup of this project include:
 
-Je suis fan d'imbrications (*Tetris*) et de mises en abyme (*Inception*) et j'aimerais exprimer ma passion au moyen de petits textes. Le méta est partout, c'est la raison pour laquelle un film comme *La Grande Aventure Lego* peut nous émouvoir ou Stack Exchange obtenir un financement de 70 millions de dollars. <span class="meta">Ha ha, cette intro est pourrie[¹](#note1).</span>
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-...
-{% endhighlight %}
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Il s'agit de code <a href="https://fr.wikipedia.org/wiki/Markdown" target="_blank">Markdown</a>, donc HTML est accepté.
-
-## Prenez part à l'aventure
-
-Vous aussi, vous pouvez [contribuer en rejoignant le club](/contribute/) !
-
-Pour toute question ou suggestion, n'hésitez pas à [créer un message sur GitHub](https://github.com/jilljenn/club-meta/issues/new) ou bien [me faire signe sur Twitter](https://twitter.com/jjvie).
-
-<hr />
-
-<a id="note1">¹</a> Notez ce style, qui indique un passage méta du texte[²](#note2).<br />
-<a id="note2">²</a> Et cette footnote[²](#note2), qui indique un passage métaméta.
+Thanks for reading!
