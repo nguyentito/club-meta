@@ -1,0 +1,11 @@
+.meta {
+  color: #bbb;
+}
+
+abbr {
+    font-size: 100%;
+}
+
+abbr[title] {
+    border-bottom: 0;
+}
