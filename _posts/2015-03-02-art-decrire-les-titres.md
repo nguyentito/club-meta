@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De l'art d'écrire les titres
+author: jjv
 ---
 
 Il faut mettre les titres en italique. Sinon, comment distinguer entre les deux phrases suivantes ?
