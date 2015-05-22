@@ -14,9 +14,20 @@ description:      'Regarde tout ce qu''on peut faire avec de la caféine ! Fait 
 url:              http://club-meta.fr
 baseurl:          /
 
-author:
-  name:           'Jill-Jênn Vie'
-  url:            https://twitter.com/jjvie
+authors:
+  jjv:
+    name: 'Jill-Jênn Vie'
+    email: anonymous@club-meta.fr
+    web: http://jill-jenn.net/
+    twitter: jjvie
+    github: jilljenn
+  kocobe:
+    name: 'Kocobe'
+    email:
+    web:
+    twitter:
+    github: kocobe
+
 
 paginate:         5
 

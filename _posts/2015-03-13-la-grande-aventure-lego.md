@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La Grande Aventure Lego (ou le syndrome de Uhu)
+author: jjv
 ---
 
 - Qui d'autre que moi aura été aussi ému au moment de la découverte du *grand méchant* ?

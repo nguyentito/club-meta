@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citizenfour
+author: jjv
 ---
 
 <p class="message">JJ. — Pfff mais je suis sûr que personne ne va entendre parler de <em>Citizenfour</em>, l'affiche est super sombre, bleue et noire…<br />
