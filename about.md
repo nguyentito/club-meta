@@ -4,7 +4,7 @@ title: C'est quoi ?
 ---
 
 <p class="message">
-  Club-Méta a été créé par <a href="http://jill-jenn.net" target="_blank">JJ Vie</a> le 2 mars 2015 à 2 h 10 alors qu'il peinait à trouver le sommeil.
+  Club-Méta a été créé par <a href="http://jill-jenn.net" target="_blank">Jill-Jênn Vie</a> le 2 mars 2015 à 2 h 10 alors qu'il peinait à trouver le sommeil.
 </p>
 
 Je suis fan d'imbrications (*Tetris*) et de mises en abyme (*Inception*) et j'aimerais exprimer ma passion au moyen de petits textes. Le méta est partout, c'est la raison pour laquelle un film comme *La Grande Aventure Lego* peut nous émouvoir ou Stack Exchange obtenir un financement de 70 millions de dollars. <span class="meta">Ha ha, cette intro est pourrie[¹](#note1).</span>

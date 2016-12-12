@@ -27,7 +27,9 @@ authors:
     web:
     twitter:
     github: kocobe
-
+  pguernon:
+    name: 'Patrice Guernon'
+    github: PatdeMessac
 
 paginate:         5
 
