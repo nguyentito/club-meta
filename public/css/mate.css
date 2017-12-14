@@ -9,3 +9,7 @@ abbr {
 abbr[title] {
     border-bottom: 0;
 }
+
+.mail::after {
+    content: '@';
+}

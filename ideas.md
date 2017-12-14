@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quelques idées d'articles
+title: Corpus
 ---
 
 Je verrais bien ici des articles portant sur les sujets suivants. À vous de jouer sur [GitHub](https://github.com/jilljenn/club-meta/new/gh-pages) ! J'attends vos [*poules équestres*](https://github.com/jilljenn/club-meta/pulls).

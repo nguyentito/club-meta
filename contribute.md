@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Contribuez au club !
+title: Participez !
 ---
+
+N'hésitez pas à nous envoyer à <span class="mail">club-meta</span>lists.crans.org des idées d'œuvres méta !
 
 Ce site est aussi méta dans son principe : vous pouvez le consulter mais aussi le modifier.
 
