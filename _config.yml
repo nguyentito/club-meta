@@ -1,6 +1,6 @@
 # Dependencies
-highlighter:      pygments
-gems:             ["jekyll-paginate"]
+highlighter:      rouge
+plugins:          ["jekyll-paginate"]
 
 # Permalinks
 permalink:        pretty
